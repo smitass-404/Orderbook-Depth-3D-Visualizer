@@ -45,6 +45,18 @@ A sophisticated **Next.js** application that displays a **rotating 3D graph visu
 | State Management | React hooks, React context API              |
 
 ---
+###  System Architecture 
+```
+Binance WebSocket API
+        ↓
+Real-time Parser (Node/React)
+        ↓
+State Manager (React Context)
+        ↓
+3D Renderer (@react-three/fiber)
+        ↓
+UI + Animations (React + Tailwind + @react-spring)
+```
 
 ## 📦 Installation
 
@@ -70,3 +82,6 @@ npm run dev
 Visit: http://localhost:3000
 
 ```
+![Demo](https://user-images.githubusercontent.com/your-gif-path.gif)
+
+
