@@ -54,15 +54,19 @@ git clone https://github.com/smitass-404/Orderbook-Depth-3D-Visualizer.git
 cd Orderbook-Depth-3D-Visualizer
 ```
 
-## Install Dependecies
+### 2. Install Dependecies
 
 ```
 npm install
 ```
 
-###  Run the development server
+### 3. Run the development server
 
 ```
 npm run dev
+```
+### 4. Open in browser
+```
+Visit: http://localhost:3000
 
 ```
