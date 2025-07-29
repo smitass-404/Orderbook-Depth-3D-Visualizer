@@ -52,3 +52,17 @@ A sophisticated **Next.js** application that displays a **rotating 3D graph visu
 ```bash
 git clone https://github.com/smitass-404/Orderbook-Depth-3D-Visualizer.git
 cd Orderbook-Depth-3D-Visualizer
+```
+
+## Install Dependecies
+
+```
+npm install
+```
+
+###  Run the development server
+
+```
+npm run dev
+
+```
